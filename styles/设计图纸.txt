@@ -1,0 +1,8 @@
+#梁杰的博客
+
+#主题色
+#922424
+
+#字体
+<link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
+font-family: 'Open Sans', sans-serif;
